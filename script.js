@@ -477,3 +477,5 @@ function shuffleArray(array) {
     }
     return newArray;
 }
+
+
